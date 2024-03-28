@@ -1,0 +1,7 @@
+{
+  "name": "nfc-wallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
