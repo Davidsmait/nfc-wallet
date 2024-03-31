@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">nfc-wallet</string>
+    <string name="title_activity_main">nfc-wallet</string>
+    <string name="package_name">com.nfc.wallet</string>
+    <string name="custom_url_scheme">com.nfc.wallet</string>
+</resources>
